@@ -1,0 +1,56 @@
+🚀 Timeline học Fullstack Web (6 tháng)
+🔹 Tháng 1 – React + TypeScript cơ bản
+    Mục tiêu: Thành thạo React function component, hooks, styling, dùng TypeScript trong React.
+    Tuần 1: Ôn ES6 nâng cao (arrow function, async/await, destructuring).
+    Tuần 2: React cơ bản (JSX, component, props, state).
+    Tuần 3: React Hooks (useState, useEffect, useRef).
+    Tuần 4: TypeScript trong React (props, state, event).
+    👉 Mini project: Todo App, Weather App (fetch API).
+
+🔹 Tháng 2 – React nâng cao + UI
+    Mục tiêu: Xây dựng ứng dụng React chuẩn, có routing, styling đẹp, quản lý state.
+    Tuần 5: React Router (nhiều trang, param, nested routes).
+    Tuần 6: State nâng cao (useReducer, useContext).
+    Tuần 7: Quản lý state global (Redux Toolkit hoặc Zustand).
+    Tuần 8: UI library (TailwindCSS + shadcn/ui).
+    👉 Mini project: Blog CRUD (React Router + Context/Redux).
+
+🔹 Tháng 3 – Next.js (App Router)
+    Mục tiêu: Làm quen Next.js, biết SSR, SSG, API routes, Auth.
+    Tuần 9: Cấu trúc Next.js, routing (App Router).
+    Tuần 10: Server Components vs Client Components.
+    Tuần 11: Data fetching (SSR, SSG, ISR).
+    Tuần 12: API Routes + Authentication (NextAuth).
+    👉 Project: Blog platform với login, CRUD bài viết, SEO cơ bản.
+
+🔹 Tháng 4 – Backend với Node.js + Database
+    Mục tiêu: Biết viết REST API, làm việc với DB, Auth.
+    Tuần 13: Node.js căn bản (module, event loop).
+    Tuần 14: Express.js cơ bản (CRUD API, middleware).
+    Tuần 15: Database (PostgreSQL hoặc MongoDB) + Prisma ORM.
+    Tuần 16: Authentication nâng cao (JWT, refresh token).
+    👉 Project: API cho E-commerce (user, product, order, cart).
+
+🔹 Tháng 5 – Fullstack Integration
+    Mục tiêu: Kết hợp frontend (Next.js) + backend (Node/Express/NestJS).
+    Tuần 17: Kết nối Next.js frontend với backend API.
+    Tuần 18: Upload file, phân quyền (role-based auth).
+    Tuần 19: Tích hợp thanh toán (Stripe hoặc PayPal API).
+    Tuần 20: Testing cơ bản (Jest, React Testing Library).
+    👉 Project: E-commerce Fullstack (giỏ hàng, thanh toán, dashboard admin).
+
+🔹 Tháng 6 – DevOps + Portfolio
+    Mục tiêu: Biết deploy app, viết test cơ bản, hoàn thiện portfolio.
+    Tuần 21: Docker cơ bản (container hóa app).
+    Tuần 22: Triển khai:
+    Frontend → Vercel/Netlify
+    Backend → Render/Railway/AWS Lightsail
+    Tuần 23: CI/CD với GitHub Actions.
+    Tuần 24: Hoàn thiện portfolio (README, viết blog mô tả project bằng tiếng Anh).
+    👉 Project: Social App mini (chat real-time với Socket.io).
+
+🎯 Kết quả sau 6 tháng
+    Thành thạo React + Next.js + TypeScript.
+    Biết viết backend với Node.js + Express/NestJS + Prisma + DB.
+    Có 2–3 dự án fullstack online (Blog, E-commerce, Social App).
+    Portfolio đủ mạnh để apply Junior Fullstack Developer.
