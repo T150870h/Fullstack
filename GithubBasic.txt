@@ -1,0 +1,27 @@
+<!-- Các bước để tạo và thêm vào github 
+  1. git init : Được sử dụng để khởi tạo một kho lưu trữ Git mới trên máy tính của bạn 
+     (dùng "git status" để kiểm tra các file nếu màu đỏ thì các file chưa được sẵn sàng commit 
+     (chưa sắn sàng tải lên github) - Nếu các file màu xanh thì đã sẵn sàng)
+  2. git add . : Git được sử dụng để thêm tất cả các tệp và thay đổi trong thư mục hiện tại vào vùng tạm (staging area). 
+  Vùng tạm là nơi Git chuẩn bị các tệp để thực hiện commit.
+  3. git commit --m "Ghi chú": được sử dụng để lưu trữ các thay đổi đã được thêm vào vùng tạm (staging area) vào lịch sử 
+  phiên bản của kho lưu trữ
+  4. git remote add origin (URL git): được sử dụng để thêm một remote mới vào kho lưu trữ Git của bạn
+  5. git push -u origin main: Chuyển code từ file local lên github
+-->
+<!-- 
+   Xoá remove trong git: git remote remove origin
+   Kiểm tra remove: git remote -v
+
+-->
+<!-- Thêm các thay đổi  
+     1. git add .
+     2. git commit -m "Ghi chú"
+     3. git push 
+-->
+
+<!-- Các bước để lấy Dữ liệu từ Github về
+    1. Tìm đường dẫn code được đăng trên gitbub
+    2. git init
+    3. git clone (URL git)
+ -->
